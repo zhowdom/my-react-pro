@@ -1,0 +1,15 @@
+nav ul {
+  display: flex;
+  list-style: none;
+  padding: 0;
+  gap: 1rem;
+}
+
+nav a {
+  text-decoration: none;
+  color: inherit;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
