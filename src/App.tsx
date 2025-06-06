@@ -1,7 +1,7 @@
 import { Button } from 'antd';
 import '@ant-design/v5-patch-for-react-19';
 import { BrowserRouter, Routes, Route, Link } from 'react-router-dom';
-import routes from './/router/routes';
+import routes from './router/routes';
 
 import './style/App.css'
 
